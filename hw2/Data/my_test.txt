@@ -1,0 +1,279 @@
+CALL FOR PAPERS
+
+----------------------------------------------------------------
+
+THIRD CALL FOR PAPERS: DEADLINE EXTENSION (March 11, 2019 11:59pm UTC-12)
+
+----------------------------------------------------------------
+
+Combined Workshop on Spatial Language Understanding (SpLU) & Grounded
+Communication for Robotics (RoboNLP) at NAACL-HLT 2019, June 6,
+Minneapolis, USA.
+
+Website: https://urldefense.proofpoint.com/v2/url?u=https-3A__splu-2Drobonlp.github.io&d=DwIFaQ&c=clK7kQUTWtAVEOVIgvi0NU5BOUHhpN0H8p7CSfnc_gI&r=0w3solp5fswiyWF2RL6rSs8MCeFamFEPafDTOhgTfYI&m=b-A9XaXC1VSi10cpMTFCpZykQ7svg9_JXOz61g66FR4&s=e4szRxzPSt71lBqvTGJ8Fjq770NAwj54j0-gCtncm_U&e=
+
+---------------------------------------------------------------
+
+AIM AND SCOPE
+
+---------------------------------------------------------------
+
+SpLU-RoboNLP 2019 is a combined workshop on spatial language understanding
+(SpLU) and grounded communication for robotics (RoboNLP) that focuses on
+spatial language, both linguistic and theoretical aspects, and its
+application to various areas including and especially focusing on robotics.
+The combined workshop aims to bring together members of NLP, robotics,
+vision, and related communities in order to initiate discussions across
+fields dealing with spatial language along with other modalities. The
+desired outcome is identification of both shared and unique challenges,
+problems and future directions across the fields and various application
+domains.
+
+While language can encode highly complex, relational structures of objects,
+spatial relations between them, and patterns of motion through space, the
+community has only scratched the surface on how to encode and reason about
+spatial semantics. Despite this, spatial language is crucial to robotics,
+navigation, NLU, translation and more. Standardizing tasks is challenging
+as we lack formal domain independent meaning representations. Spatial
+semantics requires an interplay between language, perception and (often)
+interaction.
+
+Following the exciting recent progress in visual language grounding, the
+embodied, task-oriented aspect of language grounding is an important and
+timely research direction. To realize the long-term goal of robots that we
+can converse with in our homes, offices, hospitals, and warehouses, it is
+essential that we develop new techniques for linking language to action in
+the real world, where spatial language understanding is essential. Can we
+give instructions to robotic agents to assist with navigation and
+manipulation tasks in remote settings? Can we talk to robots about the
+surrounding visual world, and help them interactively learn the language
+needed to finish a task? We hope to learn about (and begin to answer) these
+questions as we delve deeper into spatial language understanding and
+grounding language for robotics.
+
+---------------------------------------------------------------
+
+TOPICS OF INTEREST
+
+---------------------------------------------------------------
+
+The major topics covered in the workshop include:
+
+- Spatial Language Meaning Representation (Continuous, Symbolic)
+
+- Spatial Language Learning and Reasoning
+
+- Multimodal Spatial Understanding
+
+- Instruction Following (real or simulated)
+
+- Grounded or Embodied tasks
+
+- Datasets and evaluation metrics
+
+For a full description and subtopics, please look at the workshop website at
+https://urldefense.proofpoint.com/v2/url?u=https-3A__splu-2Drobonlp.github.io_&d=DwIFaQ&c=clK7kQUTWtAVEOVIgvi0NU5BOUHhpN0H8p7CSfnc_gI&r=0w3solp5fswiyWF2RL6rSs8MCeFamFEPafDTOhgTfYI&m=b-A9XaXC1VSi10cpMTFCpZykQ7svg9_JXOz61g66FR4&s=jq-Crd0cExeAKzdTFasPFWqNdOEsKVhHafY_6hZGM9I&e= .
+
+---------------------------------------------------------------
+
+IMPORTANT DATES
+
+---------------------------------------------------------------
+
+Extended Submission Deadline: March 11, 2019 (11:59pm UTC-12)
+
+Notification: March 27, 2019
+
+Camera Ready deadline: April 5, 2019
+
+Workshop Day: June 6, 2019
+
+---------------------------------------------------------------
+
+SUBMISSION AND SELECTION PROCESS
+
+---------------------------------------------------------------
+
+We encourage contributions with technical papers (NAACL style, 8 pages
+without references) or position statements (NAACL style, 4 pages maximum)
+describing previously unpublished work. NAACL Style files are available here
+<https://urldefense.proofpoint.com/v2/url?u=https-3A__naacl2019.org_calls_papers&d=DwIFaQ&c=clK7kQUTWtAVEOVIgvi0NU5BOUHhpN0H8p7CSfnc_gI&r=0w3solp5fswiyWF2RL6rSs8MCeFamFEPafDTOhgTfYI&m=b-A9XaXC1VSi10cpMTFCpZykQ7svg9_JXOz61g66FR4&s=Ud2CnUg7_CgoIGALIIGUzlQpeJ3eQF1dMhTucOE1gzs&e=>.
+
+Please make submissions via Softconf here
+<https://urldefense.proofpoint.com/v2/url?u=https-3A__www.softconf.com_naacl2019_splu&d=DwIFaQ&c=clK7kQUTWtAVEOVIgvi0NU5BOUHhpN0H8p7CSfnc_gI&r=0w3solp5fswiyWF2RL6rSs8MCeFamFEPafDTOhgTfYI&m=b-A9XaXC1VSi10cpMTFCpZykQ7svg9_JXOz61g66FR4&s=Aqj7TGwNHyYdZuO2n9OWZsdWXGKNAlcx6VxXEYnVZkA&e=>.
+
+---------------------------------------------------------------
+
+BEST PAPER(S)
+
+---------------------------------------------------------------
+
+The SpLU-RoboNLP 2019 expert program committee will select the best
+paper(s) for an award.
+
+---------------------------------------------------------------
+
+INVITED SPEAKERS
+
+---------------------------------------------------------------
+
+* Dhruv Batra <https://urldefense.proofpoint.com/v2/url?u=https-3A__www.cc.gatech.edu_-7Edbatra_&d=DwIFaQ&c=clK7kQUTWtAVEOVIgvi0NU5BOUHhpN0H8p7CSfnc_gI&r=0w3solp5fswiyWF2RL6rSs8MCeFamFEPafDTOhgTfYI&m=b-A9XaXC1VSi10cpMTFCpZykQ7svg9_JXOz61g66FR4&s=8eaCoybN0pcUmPcxJz1kf4lVaYV7l_PYz03-cTiJ7sI&e=>, GaTech/FAIR
+
+* Joyce Chai <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.cse.msu.edu_-7Ejchai_&d=DwIFaQ&c=clK7kQUTWtAVEOVIgvi0NU5BOUHhpN0H8p7CSfnc_gI&r=0w3solp5fswiyWF2RL6rSs8MCeFamFEPafDTOhgTfYI&m=b-A9XaXC1VSi10cpMTFCpZykQ7svg9_JXOz61g66FR4&s=31CspF5mItvxZ5BISnk9tg6-BQG7L4qCpZ_dPqaXBsE&e=>, Michigan State University
+
+* Cynthia Matuszek <https://urldefense.proofpoint.com/v2/url?u=https-3A__www.csee.umbc.edu_-7Ecmat_&d=DwIFaQ&c=clK7kQUTWtAVEOVIgvi0NU5BOUHhpN0H8p7CSfnc_gI&r=0w3solp5fswiyWF2RL6rSs8MCeFamFEPafDTOhgTfYI&m=b-A9XaXC1VSi10cpMTFCpZykQ7svg9_JXOz61g66FR4&s=Qb23jt0qpEXSlPF9-KjDfIdiMUrAV8G0t5L4d-dVf6Q&e=>, UMBC
+
+* Raymond J. Mooney <https://urldefense.proofpoint.com/v2/url?u=https-3A__www.cs.utexas.edu_-7Emooney_&d=DwIFaQ&c=clK7kQUTWtAVEOVIgvi0NU5BOUHhpN0H8p7CSfnc_gI&r=0w3solp5fswiyWF2RL6rSs8MCeFamFEPafDTOhgTfYI&m=b-A9XaXC1VSi10cpMTFCpZykQ7svg9_JXOz61g66FR4&s=amo6tLZlXogz7nniQgzp4DqXZa38gAa02Z-lIznfk4s&e=>, UT Austin
+
+* Martha Palmer <https://urldefense.proofpoint.com/v2/url?u=https-3A__www.colorado.edu__faculty_palmer-2Dmartha_&d=DwIFaQ&c=clK7kQUTWtAVEOVIgvi0NU5BOUHhpN0H8p7CSfnc_gI&r=0w3solp5fswiyWF2RL6rSs8MCeFamFEPafDTOhgTfYI&m=b-A9XaXC1VSi10cpMTFCpZykQ7svg9_JXOz61g66FR4&s=DL1SrcP13Bplj7a-SciW5jroaBdY8cnNcJt0pgxYibA&e=>, CU
+Boulder
+
+* Matthias Scheutz
+<https://urldefense.proofpoint.com/v2/url?u=https-3A__engineering.tufts.edu_people_faculty_matthias-2Dscheutz&d=DwIFaQ&c=clK7kQUTWtAVEOVIgvi0NU5BOUHhpN0H8p7CSfnc_gI&r=0w3solp5fswiyWF2RL6rSs8MCeFamFEPafDTOhgTfYI&m=b-A9XaXC1VSi10cpMTFCpZykQ7svg9_JXOz61g66FR4&s=X8yYY8BascBjg4-78G0FX25KaMn3CKv8oEditmwt32A&e=>, Tufts
+
+* Stefanie Tellex <https://urldefense.proofpoint.com/v2/url?u=https-3A__cs.brown.edu_-7Estefie10_&d=DwIFaQ&c=clK7kQUTWtAVEOVIgvi0NU5BOUHhpN0H8p7CSfnc_gI&r=0w3solp5fswiyWF2RL6rSs8MCeFamFEPafDTOhgTfYI&m=b-A9XaXC1VSi10cpMTFCpZykQ7svg9_JXOz61g66FR4&s=i9w8ilBshyRW4i_QNmx-ewZVDvimXYZLqT3RrfkYnV0&e=>, Brown
+
+* Dilek Hakkani-Tur
+<https://urldefense.proofpoint.com/v2/url?u=https-3A__scholar.google.com_citations-3Fuser-3DGMcL-5F9kAAAAJ-26hl-3Den-26authuser-3D1-26oi-3Dao&d=DwIFaQ&c=clK7kQUTWtAVEOVIgvi0NU5BOUHhpN0H8p7CSfnc_gI&r=0w3solp5fswiyWF2RL6rSs8MCeFamFEPafDTOhgTfYI&m=b-A9XaXC1VSi10cpMTFCpZykQ7svg9_JXOz61g66FR4&s=I0aaPqx42G5eRmXaNgW6rhFuKn6D39F3jTZavXmVzgA&e=>,
+Amazon
+
+---------------------------------------------------------------
+
+PROGRAM COMMITTEE
+
+---------------------------------------------------------------
+
+* Malihe Alikhani, Rutgers University, USA
+
+* Yoav Artzi, Cornell University, USA
+
+* Jacob Arkin, Univ of Rochester, USA
+
+* John A. Bateman, Universität Bremen, Germany
+
+* Mehul Bhatt, Örebro University, Sweden
+
+* Jonathan Berant, Tel-Aviv University, Israel
+
+* Raffaella Bernardi, University of Trento, Italy
+
+* Steven Bethard, University of Arizona, USA
+
+* Johan Bos, University of Groningen, The Netherlands
+
+* Volkan Cirik, CMU, USA
+
+* Guillem Collell, KU Leuven, Belgium
+
+* Joyce Chai, Michigan State University, USA
+
+* Angel Chang, Stanford University, USA
+
+* Simon Dobnik, CLASP and FLOV, University of Gothenburg, Sweden
+
+* Ekaterina Egorova, University of Zurich, Switzerland
+
+* Zoe Falomir, Universität Bremen, Germany
+
+* Daniel Fried, UCSF, USA
+
+* Lucian Galescu, IHMC, USA
+
+* Felix Gervits, Tufts, USA
+
+* Hannaneh Hajishirzi, University of Washington, USA
+
+* Casey Kennington, Boise State University, USA
+
+* Jayant Krishnamurthy, Semantic Machines, USA
+
+* Stephanie Lukin, Army Research Laboratory, USA
+
+* Bruno Martins, University of Lisbon, Portugal
+
+* Chris Mavrogiannis, Cornell University, USA
+
+* Dipendra Misra, Cornell University, USA
+
+* Marie-Francine Moens, KU Leuven, Belgium
+
+* Ray Mooney, University of Texas, USA
+
+* Mari Broman Olsen, Microsoft, USA
+
+* Martijn van Otterlo, Tilburg University, The Netherlands
+
+* Aishwarya Padmakumar, UT Austin, USA
+
+* Natalie Parde, University of Illinois Chicago, USA
+
+* Ian Perera, IHMC, USA
+
+* James Pustejovsky, Brandeis University, USA
+
+* Preeti Ramaraj, University of Michigan, USA
+
+* Siva Reddy, Stanford University, USA
+
+* Kirk Roberts, The University of Texas Health, USA
+
+* Anna Rohrbach, UC Berkeley, USA
+
+* Marcus Rohrbach, FAIR, USA
+
+* Manolis Savva, Princeton University, USA
+
+* Jivko Sinapov, Tufts, USA
+
+* Kristin Stock, Massey University of New Zealand, New Zealand
+
+* Alane Suhr, Cornell, USA
+
+* Clare Voss, Army Research Laboratory, USA
+
+* Xin Wang, University of California Santa Barbara, USA
+
+* Shiqi Zhang, SUNY Binghamton, USA
+
+* Victor Zhong, University of Washington, USA
+
+---------------------------------------------------------------
+
+ORGANIZING COMMITTEE
+
+---------------------------------------------------------------
+
+* James F. Allen, University of Rochester, IHMC, jallen@ihmc.us
+
+* Jacob Andreas, Semantic Machines/MIT, jda@cs.berkeley.edu
+
+* Jason Baldridge, Google, jasonbaldridge@google.com
+
+* Mohit Bansal, UNC Chapel Hill, mbansal@cs.unc.edu
+
+* Archna Bhatia (co-chair), IHMC, abhatia@ihmc.us
+
+* Yonatan Bisk (co-chair), University of Washington, ybisk@yonatanbisk.com
+
+* Asli Celikyilmaz, Microsoft Research, asli.ca@live.com
+
+* Bonnie J. Dorr, IHMC, bdorr@ihmc.us
+
+* Parisa Kordjamshidi (chair), Tulane University, IHMC, pkordjam@tulane.edu
+
+* Matthew Marge, Army Research Lab, matthew.r.marge.civ@mail.mil
+
+* Jesse Thomason (co-chair), University of Washington,
+thomason.jesse@gmail.com
+
+---------------------------------------------------------------
+
+CONTACT
+
+---------------------------------------------------------------
+Feel free to contact Organizing Committee at
+splu-robonlp-2019@googlegroups.com.
+_______________________________________________
+robotics-worldwide mailing list
+robotics-worldwide@usc.edu
+http://duerer.usc.edu/mailman/listinfo.cgi/robotics-worldwide
